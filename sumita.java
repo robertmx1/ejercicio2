@@ -11,5 +11,13 @@ public class operaciones
         int res;
         res=a+b;
         return res;
+    
+    }
+//Gonzalo tucuman
+    public int suma (int c, int d ){
+        int res;
+        res = c - d;
+        return res;
     }
 }
+
